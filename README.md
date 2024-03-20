@@ -26,7 +26,7 @@
 
 ✔️ Analista e Ingenieria de datos sobre Siniestros Viales en CABA Argentina
 
- 📎 [Link al repositorio]()
+ 📎 [Link al repositorio](https://github.com/delfinap5/PI2_DA_SiniestrosViales_Delfina)
 
  🔧 Herremientas tecnológicas: Tech tools: Python (Pandas, PLT, SNS) Data Base: MySQL Plataforma: POWER BI.
 
@@ -34,7 +34,7 @@
 
 ✔️ Ingeniero de datos y Machine Learning y DevOps para un sistema de recomendación de Juegos mediante una API
 
- 📎 [Link al repositorio]()
+ 📎 [Link al repositorio](https://github.com/delfinap5/PI-MLOps_STEAM_DELFINA)
 
  🔧 Herremientas tecnológicas: Python (Pandas, Vader-NLP, PLT, SNS, SKLearn) FrameWork: FastAPI Plataforma: Render.
 
